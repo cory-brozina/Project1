@@ -1,0 +1,12 @@
+This is a short codebook for the 81 variables in the data set
+
+Subject: This pertains to the person whose measurements were taken, there are 30 subjects in total
+Activity: This pertains to the six different activities that could have taken place
+        1 WALKING
+        2 WALKING_UPSTAIRS
+        3 WALKING_DOWNSTAIRS
+        4 SITTING
+        5 STANDING
+        6 LAYING
+
+The rest of the variables are the means for the different measurements taken. 
